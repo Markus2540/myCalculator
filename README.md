@@ -25,3 +25,5 @@ for (let i = 1; i < 100; i++) {
 ```
 
 This was a good practice project. Some improvements could be made, for example rounding of longer decimal numbers, but for now this is good.
+
+If you want to test this project calculatoraio.html was quickly made by copy pasting relevant pieces of html, styling and JavaScript into one html file and quickly tested. Main work is seperated into different files and in order to run calculator.html you need to have a local test web server, for example Xampp with Apache started.
