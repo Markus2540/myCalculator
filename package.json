@@ -1,0 +1,24 @@
+{
+  "name": "mycalculator",
+  "version": "1.0.0",
+  "description": "Calculator made with JavaScript",
+  "main": "laskin.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markus2540/myCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markus2540/myCalculator/issues"
+  },
+  "homepage": "https://github.com/Markus2540/myCalculator#readme",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "jest-environment-jsdom": "^28.1.0"
+  }
+}
